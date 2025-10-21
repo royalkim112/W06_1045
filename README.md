@@ -1,5 +1,4 @@
 # W06_1045
-======버블검 게임=====
 실행 전
 <img width="300" height="600" alt="123123123111" src="https://github.com/user-attachments/assets/b8b9acc3-4013-4ed2-b2ab-dda07d0316c7" />
 
